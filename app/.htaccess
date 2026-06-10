@@ -1,0 +1,11 @@
+RewriteEngine On
+
+# 1. Loloskan Request OPTIONS (CORS) instan tanpa membebani PHP
+
+RewriteCond %{REQUEST_METHOD} OPTIONS
+RewriteRule ^(.\*)$ - [R=200,L]
+
+# 2. Alihkan seluruh request ke folder public secara transparan
+
+RewriteCond %{REQUEST_URI} !^/public/
+RewriteRule ^(.\*)$ public/$1 [L]

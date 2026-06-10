@@ -1,0 +1,318 @@
+CRITICAL - 2026-05-15 08:26:50 --> Error: Class "App\Controllers\RestfulController" not found
+[Method: POST, Route: registrasi]
+in APPPATH\Controllers\RegistrasiController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\More Application\\Xampp\\htdocs\\toko-api\\app\\Controllers\\RegistrasiController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\RegistrasiController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\RegistrasiController')
+ 5 SYSTEMPATH\Router\Router.php(792): class_exists('\\App\\Controllers\\RegistrasiController')
+ 6 SYSTEMPATH\Router\Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 7 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('registrasi')
+ 8 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-15 08:27:51 --> Error: Class "App\Controllers\RestfulController" not found
+[Method: POST, Route: registrasi]
+in APPPATH\Controllers\RegistrasiController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\More Application\\Xampp\\htdocs\\toko-api\\app\\Controllers\\RegistrasiController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\RegistrasiController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\RegistrasiController')
+ 5 SYSTEMPATH\Router\Router.php(792): class_exists('\\App\\Controllers\\RegistrasiController')
+ 6 SYSTEMPATH\Router\Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 7 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('registrasi')
+ 8 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-15 08:30:33 --> Error: Class "App\Controllers\RestfulController" not found
+[Method: POST, Route: registrasi]
+in APPPATH\Controllers\RegistrasiController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\More Application\\Xampp\\htdocs\\toko-api\\app\\Controllers\\RegistrasiController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\RegistrasiController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\RegistrasiController')
+ 5 SYSTEMPATH\Router\Router.php(792): class_exists('\\App\\Controllers\\RegistrasiController')
+ 6 SYSTEMPATH\Router\Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 7 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('registrasi')
+ 8 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-15 08:44:44 --> Error: Class "App\Controllers\RestfulController" not found
+[Method: POST, Route: registrasi]
+in APPPATH\Controllers\RegistrasiController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\More Application\\Xampp\\htdocs\\toko-api\\app\\Controllers\\RegistrasiController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\RegistrasiController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\RegistrasiController')
+ 5 SYSTEMPATH\Router\Router.php(792): class_exists('\\App\\Controllers\\RegistrasiController')
+ 6 SYSTEMPATH\Router\Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 7 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('registrasi')
+ 8 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-15 08:53:29 --> Error: Class "App\Controllers\RestfulController" not found
+[Method: POST, Route: registrasi]
+in APPPATH\Controllers\RegistrasiController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\More Application\\Xampp\\htdocs\\toko-api\\app\\Controllers\\RegistrasiController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\RegistrasiController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\RegistrasiController')
+ 5 SYSTEMPATH\Router\Router.php(792): class_exists('\\App\\Controllers\\RegistrasiController')
+ 6 SYSTEMPATH\Router\Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 7 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('registrasi')
+ 8 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-15 08:53:44 --> Error: Class "App\Controllers\RestfulController" not found
+[Method: POST, Route: registrasi]
+in APPPATH\Controllers\RegistrasiController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\More Application\\Xampp\\htdocs\\toko-api\\app\\Controllers\\RegistrasiController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\RegistrasiController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\RegistrasiController')
+ 5 SYSTEMPATH\Router\Router.php(792): class_exists('\\App\\Controllers\\RegistrasiController')
+ 6 SYSTEMPATH\Router\Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 7 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('registrasi')
+ 8 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-15 08:53:45 --> Error: Class "App\Controllers\RestfulController" not found
+[Method: POST, Route: registrasi]
+in APPPATH\Controllers\RegistrasiController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\More Application\\Xampp\\htdocs\\toko-api\\app\\Controllers\\RegistrasiController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\RegistrasiController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\RegistrasiController')
+ 5 SYSTEMPATH\Router\Router.php(792): class_exists('\\App\\Controllers\\RegistrasiController')
+ 6 SYSTEMPATH\Router\Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 7 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('registrasi')
+ 8 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-15 08:54:33 --> Error: Class "App\Controllers\RestfulController" not found
+[Method: POST, Route: registrasi]
+in APPPATH\Controllers\RegistrasiController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\More Application\\Xampp\\htdocs\\toko-api\\app\\Controllers\\RegistrasiController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\RegistrasiController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\RegistrasiController')
+ 5 SYSTEMPATH\Router\Router.php(792): class_exists('\\App\\Controllers\\RegistrasiController')
+ 6 SYSTEMPATH\Router\Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 7 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('registrasi')
+ 8 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-15 08:55:44 --> Error: Class "App\Controllers\RestfulController" not found
+[Method: POST, Route: registrasi]
+in APPPATH\Controllers\RegistrasiController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\More Application\\Xampp\\htdocs\\toko-api\\app\\Controllers\\RegistrasiController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\RegistrasiController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\RegistrasiController')
+ 5 SYSTEMPATH\Router\Router.php(792): class_exists('\\App\\Controllers\\RegistrasiController')
+ 6 SYSTEMPATH\Router\Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 7 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('registrasi')
+ 8 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-15 08:56:19 --> Error: Class "App\Controllers\RestfulController" not found
+[Method: POST, Route: registrasi]
+in APPPATH\Controllers\RegistrasiController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\More Application\\Xampp\\htdocs\\toko-api\\app\\Controllers\\RegistrasiController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\RegistrasiController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\RegistrasiController')
+ 5 SYSTEMPATH\Router\Router.php(792): class_exists('\\App\\Controllers\\RegistrasiController')
+ 6 SYSTEMPATH\Router\Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 7 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('registrasi')
+ 8 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-15 09:02:39 --> Error: Class "App\Controllers\RestfulController" not found
+[Method: POST, Route: registrasi]
+in APPPATH\Controllers\RegistrasiController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\More Application\\Xampp\\htdocs\\toko-api\\app\\Controllers\\RegistrasiController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\RegistrasiController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\RegistrasiController')
+ 5 SYSTEMPATH\Router\Router.php(792): class_exists('\\App\\Controllers\\RegistrasiController')
+ 6 SYSTEMPATH\Router\Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 7 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('registrasi')
+ 8 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-15 09:02:40 --> Error: Class "App\Controllers\RestfulController" not found
+[Method: POST, Route: registrasi]
+in APPPATH\Controllers\RegistrasiController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\More Application\\Xampp\\htdocs\\toko-api\\app\\Controllers\\RegistrasiController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\RegistrasiController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\RegistrasiController')
+ 5 SYSTEMPATH\Router\Router.php(792): class_exists('\\App\\Controllers\\RegistrasiController')
+ 6 SYSTEMPATH\Router\Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 7 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('registrasi')
+ 8 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-15 11:36:20 --> Error: Class "App\Controllers\RestfulController" not found
+[Method: POST, Route: registrasi]
+in APPPATH\Controllers\RegistrasiController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\More Application\\Xampp\\htdocs\\toko-api\\app\\Controllers\\RegistrasiController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\RegistrasiController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\RegistrasiController')
+ 5 SYSTEMPATH\Router\Router.php(792): class_exists('\\App\\Controllers\\RegistrasiController')
+ 6 SYSTEMPATH\Router\Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 7 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('registrasi')
+ 8 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-15 11:40:04 --> Error: Class "App\Controllers\RestfulController" not found
+[Method: POST, Route: registrasi]
+in APPPATH\Controllers\RegistrasiController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\More Application\\Xampp\\htdocs\\toko-api\\app\\Controllers\\RegistrasiController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\RegistrasiController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\RegistrasiController')
+ 5 SYSTEMPATH\Router\Router.php(792): class_exists('\\App\\Controllers\\RegistrasiController')
+ 6 SYSTEMPATH\Router\Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 7 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('registrasi')
+ 8 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-15 11:40:13 --> Error: Class "App\Controllers\RestfulController" not found
+[Method: POST, Route: registrasi]
+in APPPATH\Controllers\RegistrasiController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\More Application\\Xampp\\htdocs\\toko-api\\app\\Controllers\\RegistrasiController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\RegistrasiController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\RegistrasiController')
+ 5 SYSTEMPATH\Router\Router.php(792): class_exists('\\App\\Controllers\\RegistrasiController')
+ 6 SYSTEMPATH\Router\Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 7 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('registrasi')
+ 8 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-15 11:43:46 --> Error: Class "App\Controllers\RestfulController" not found
+[Method: POST, Route: registrasi]
+in APPPATH\Controllers\RegistrasiController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\More Application\\Xampp\\htdocs\\toko-api\\app\\Controllers\\RegistrasiController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\RegistrasiController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\RegistrasiController')
+ 5 SYSTEMPATH\Router\Router.php(792): class_exists('\\App\\Controllers\\RegistrasiController')
+ 6 SYSTEMPATH\Router\Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 7 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('registrasi')
+ 8 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-15 11:43:48 --> Error: Class "App\Controllers\RestfulController" not found
+[Method: POST, Route: registrasi]
+in APPPATH\Controllers\RegistrasiController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\More Application\\Xampp\\htdocs\\toko-api\\app\\Controllers\\RegistrasiController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\RegistrasiController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\RegistrasiController')
+ 5 SYSTEMPATH\Router\Router.php(792): class_exists('\\App\\Controllers\\RegistrasiController')
+ 6 SYSTEMPATH\Router\Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 7 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('registrasi')
+ 8 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-15 12:31:26 --> Error: Class "App\Controllers\RestfulController" not found
+[Method: POST, Route: registrasi]
+in APPPATH\Controllers\RegistrasiController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\More Application\\Xampp\\htdocs\\toko-api\\app\\Controllers\\RegistrasiController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\RegistrasiController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\RegistrasiController')
+ 5 SYSTEMPATH\Router\Router.php(792): class_exists('\\App\\Controllers\\RegistrasiController')
+ 6 SYSTEMPATH\Router\Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 7 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('registrasi')
+ 8 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-15 12:38:56 --> Error: Class "App\Controllers\RestfulController" not found
+[Method: POST, Route: registrasi]
+in APPPATH\Controllers\RegistrasiController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\More Application\\Xampp\\htdocs\\toko-api\\app\\Controllers\\RegistrasiController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\RegistrasiController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\RegistrasiController')
+ 5 SYSTEMPATH\Router\Router.php(792): class_exists('\\App\\Controllers\\RegistrasiController')
+ 6 SYSTEMPATH\Router\Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 7 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('registrasi')
+ 8 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\More Application\\Xampp\\htdocs\\toko-api\\public\\index.php')
+CRITICAL - 2026-05-15 12:42:03 --> Error: Class "App\Controllers\RestfulController" not found
+[Method: POST, Route: registrasi]
+in APPPATH\Controllers\RegistrasiController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\More Application\\Xampp\\htdocs\\toko-api\\app\\Controllers\\RegistrasiController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\RegistrasiController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\RegistrasiController')
+ 5 SYSTEMPATH\Router\Router.php(792): class_exists('\\App\\Controllers\\RegistrasiController')
+ 6 SYSTEMPATH\Router\Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 7 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('registrasi')
+ 8 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\More Application\\Xampp\\htdocs\\toko-api\\public\\index.php')
+CRITICAL - 2026-05-15 12:55:42 --> Error: Class "App\Controllers\RestfulController" not found
+[Method: POST, Route: registrasi]
+in APPPATH\Controllers\RegistrasiController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\More Application\\Xampp\\htdocs\\toko-api\\app\\Controllers\\RegistrasiController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\RegistrasiController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\RegistrasiController')
+ 5 SYSTEMPATH\Router\Router.php(792): class_exists('\\App\\Controllers\\RegistrasiController')
+ 6 SYSTEMPATH\Router\Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 7 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('registrasi')
+ 8 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\More Application\\Xampp\\htdocs\\toko-api\\public\\index.php')
